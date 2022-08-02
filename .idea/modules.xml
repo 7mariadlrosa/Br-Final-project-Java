@@ -3,13 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/&lt;br&gt;.iml" filepath="$PROJECT_DIR$/.idea/&lt;br&gt;.iml" />
-      <module fileurl="file://$PROJECT_DIR$/comments-service/comments-service.iml" filepath="$PROJECT_DIR$/comments-service/comments-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/course-service/course-service.iml" filepath="$PROJECT_DIR$/course-service/course-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br-backend/comments-service/comments-service.iml" filepath="$PROJECT_DIR$/br-backend/comments-service/comments-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br-backend/config-server/config-server.iml" filepath="$PROJECT_DIR$/br-backend/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br-backend/course-service/course-service.iml" filepath="$PROJECT_DIR$/br-backend/course-service/course-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/developer-type-service/developer-type-service.iml" filepath="$PROJECT_DIR$/developer-type-service/developer-type-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/edge-service/edge-service.iml" filepath="$PROJECT_DIR$/edge-service/edge-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br-backend/edge-service/edge-service.iml" filepath="$PROJECT_DIR$/br-backend/edge-service/edge-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br-backend/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/br-backend/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/lenguage-service/lenguage-service.iml" filepath="$PROJECT_DIR$/lenguage-service/lenguage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br-backend/proxy-service/proxy-service.iml" filepath="$PROJECT_DIR$/br-backend/proxy-service/proxy-service.iml" />
     </modules>
   </component>
 </project>

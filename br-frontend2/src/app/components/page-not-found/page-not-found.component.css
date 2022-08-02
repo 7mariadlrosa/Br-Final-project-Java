@@ -1,0 +1,25 @@
+.error-404 {
+    position: absolute;
+    color: rgb(71,53,195);
+    font-weight: bold;
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.error-404 p {
+    font-size: 100px;
+    margin-top: 35%;
+}
+
+.error-404 a {
+    font-size: 5em;
+    text-decoration: none;
+    color:rgb(71, 53, 195);
+}
+
+
+img{
+    width: max-content;
+}

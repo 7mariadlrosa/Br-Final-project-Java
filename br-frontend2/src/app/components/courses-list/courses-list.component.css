@@ -1,0 +1,19 @@
+.container{
+    padding: 50px;
+    margin: 50px;
+}
+
+.title-course{
+    color: rgb(71, 53, 195);
+    font-size: 2em;
+}
+
+.title-section {
+    color: rgb(71, 53, 195);
+    font-size: 7em;
+    padding: 20px;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+

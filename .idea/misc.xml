@@ -10,6 +10,12 @@
         <option value="$PROJECT_DIR$/lenguage-service/pom.xml" />
         <option value="$PROJECT_DIR$/developer-type-service/pom.xml" />
         <option value="$PROJECT_DIR$/comments-service/pom.xml" />
+        <option value="$PROJECT_DIR$/br-backend/comments-service/pom.xml" />
+        <option value="$PROJECT_DIR$/br-backend/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/br-backend/course-service/pom.xml" />
+        <option value="$PROJECT_DIR$/br-backend/edge-service/pom.xml" />
+        <option value="$PROJECT_DIR$/br-backend/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/br-backend/proxy-service/pom.xml" />
       </list>
     </option>
   </component>

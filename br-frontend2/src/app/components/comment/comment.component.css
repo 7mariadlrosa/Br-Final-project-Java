@@ -1,0 +1,16 @@
+.fake-textarea {
+    border: 1px solid black;
+    width: 30rem;
+    padding: .5rem;
+    min-height: 3rem;
+}
+
+.fake-textarea:empty::before {
+    position: absolute;
+    content: "Write here...";
+}
+
+.comment-input{
+    padding: 30px;
+    border: 5px white;
+}

@@ -8,8 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="course-service" />
-        <module name="config-server" />
+        <module name="proxy-service" />
         <module name="comments-service" />
+        <module name="config-server" />
         <module name="edge-service" />
         <module name="lenguage-service" />
         <module name="developer-type-service" />
@@ -24,6 +25,7 @@
       <module name="edge-service" target="17" />
       <module name="eureka-server" target="17" />
       <module name="lenguage-service" target="17" />
+      <module name="proxy-service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -35,6 +37,7 @@
       <module name="edge-service" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="lenguage-service" options="-parameters" />
+      <module name="proxy-service" options="-parameters" />
     </option>
   </component>
 </project>
